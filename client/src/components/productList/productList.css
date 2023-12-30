@@ -1,0 +1,39 @@
+.container {
+    margin-top: 20px;
+}
+
+.product-card {
+    height: 100%;
+}
+
+.product-image {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.product-description {
+    height: fit-content;
+    overflow: hidden;
+}
+
+.price-text {
+    font-weight: bold;
+}
+
+.add-to-cart-button {
+    margin-top: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.quantity-container{
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.quantity-display{
+    padding: 6px
+}
